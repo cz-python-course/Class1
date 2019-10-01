@@ -1,6 +1,12 @@
 # Class1 - What is python, and what you can do with it
 Before we dive in programming, let's understand what we can build with python, and later we start learning how python works.
 
+- [Class1 - What is python, and what you can do with it](#class1---what-is-python-and-what-you-can-do-with-it)
+- [What Can I do with python?](#what-can-i-do-with-python)
+- [How does python works?](#how-does-python-works)
+  - [But what is a "type of data"?](#but-what-is-a-type-of-data)
+  - [Comments](#comments)
+
 # What Can I do with python?
 
 Python can be used in a lot of fields. Games, Data science, computational vision, engineering, data science, big data, etc... Scientists and engineers often choose this language not onlybecause the learning proecess is easier that some other languages, but also because we don't always need to compile the program into an executable. We can also use it as an [interpreted language](https://en.wikipedia.org/wiki/Interpreted_language), making it easier for other people to understand what is being done and allowing other people to change it as needed. This makes python a good language to solve problems in science and engineer fields, and in fact those are the places where python really shine. Learning (the basics of)  python is not as hard as other languages, and it will allow you to start solving problems in a shorter period of time than it would take with other languages.
