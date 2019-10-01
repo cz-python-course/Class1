@@ -39,13 +39,19 @@ Although a strongly typed variable has some advantages, a loosely typed language
 Every information stored in a variable has a type. In python, Those are the most common types of data:
 
 - *Boolean:* True or False
+  - Boolean is a data type that can be only True, or False (with uppercase on the first letter)
 - *int:* whole numbers, positive, negative and zero.
-- *float:* float points. NUmbers that are not int. In python, the decimal character is a dot (.), some examples are: 1.5223, -2.01234, 3.14, etc...
+  - Int numbers are one of the most used types of data that we will use.
+- *float:* float points. NUmbers that are not int. In python, the decimal character is a dot (.), some examples are: 1.5223, -2.01234, 3.14, etc... 
+  - Floats are numbers suffer from the problem that makes floating points not precise in some cases. If you try to add 0.1 + 0.2, the result will not be 0.3
 - *string:* Text. In python, we have to wrap those values in quotes (' or "). This way, the interpreter knows that it's a text string. We can use simple or double quotes to wrap the text we are creating. Both quotes have the same effect in python.
+  - Strings means any type of text that we can type. This value can come from the user input, or reading a text file, etc..
 - *arrays:* They are lists of variables. we can store multiple values here. to declare an array, we use square brackets; Examples: [1,2,3,'abc',4].
 - *dictionary:* Dictionaries are lists that contains a key/value pair. It's used when you know what each data is, and want to name it.we define a dictionary with curly Brackets, separate keys from values using a colon. example: {'first name':'bruce', 'last name':'wayne'}
 - *tuples:* In python, tuples work like dictionaries, but you cannot modify the values after including the key/value pai. we declare a tuple using parenthesis. example: ('first name':'bruce', 'last name':'wayne')
+- *None:* None is a type of data that indicates that no data was set. you can use this data type to declare a variable without a value.
 - *Objects:* Objects are instances of classes (we will see classes in the future, don't worry), and they are not a primitive type like the others, but they are really common as well.
+
 
 ## Comments
 
